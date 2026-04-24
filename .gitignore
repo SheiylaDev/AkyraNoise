@@ -1,0 +1,30 @@
+## Source code (prive - non publie sur le repo)
+AkyraNoise/
+*.sln
+
+## .NET / build
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+## Output / publish
+**/publish/
+Release/
+
+## Rider / VS
+.idea/
+
+## OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Logs
+*.log
+
+## Settings
+*.exe.config
